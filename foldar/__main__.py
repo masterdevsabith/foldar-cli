@@ -46,7 +46,7 @@ def next_create(path: Path = typer.Argument(..., help="project folder path")):
 @app.command()
 def version():
     """Show version information."""
-    typer.echo("seta v0.1.0")
+    typer.echo("foldar v0.1.0")
 
 
 def main():
