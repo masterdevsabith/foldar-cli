@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "foldar"
+version = "0.1.0"
+description = "CLI tool to create project folder structures"
+authors = [{name = "masterdevsabith"}]
+license = {text = "MIT"}
+
+dependencies = ["typer","rich","jinja2"]
+
+[project.scripts]
+foldar = "foldar.__main__:main"

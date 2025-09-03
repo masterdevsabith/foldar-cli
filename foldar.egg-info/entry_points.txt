@@ -1,0 +1,2 @@
+[console_scripts]
+foldar = foldar.__main__:main

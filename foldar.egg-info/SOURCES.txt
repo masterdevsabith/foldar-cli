@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+foldar/__init__.py
+foldar/__main__.py
+foldar.egg-info/PKG-INFO
+foldar.egg-info/SOURCES.txt
+foldar.egg-info/dependency_links.txt
+foldar.egg-info/entry_points.txt
+foldar.egg-info/requires.txt
+foldar.egg-info/top_level.txt
