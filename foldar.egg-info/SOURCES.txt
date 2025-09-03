@@ -2,6 +2,7 @@ README.md
 pyproject.toml
 foldar/__init__.py
 foldar/__main__.py
+foldar/code_templates.py
 foldar.egg-info/PKG-INFO
 foldar.egg-info/SOURCES.txt
 foldar.egg-info/dependency_links.txt
